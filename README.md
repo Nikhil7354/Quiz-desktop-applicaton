@@ -1,1 +1,1 @@
-# Quiz-desktop-applicaton
+# Quiz-desktop-application
